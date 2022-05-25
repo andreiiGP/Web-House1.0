@@ -40,7 +40,7 @@ public class IinicioSesion extends HttpServlet {
         
         Validar  va = new Validar();
         if (va.validarTipo(user, pass)) {
-            response.sendRedirect("contacto.html");
+            response.sendRedirect("inicio.html");
             
         }
         else{

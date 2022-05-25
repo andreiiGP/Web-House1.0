@@ -82,7 +82,7 @@ public final class loguin_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("            <div class=\"row\">\n");
       out.write("              <div class=\"col-lg-12\">\n");
       out.write("                <div class=\"section-heading\">\n");
-      out.write("                    <img class=\"cuadross\" src=\"assets/images/im1.png\" alt=\"\">\n");
+      out.write("                    <img class=\"cuadross\" src=\"assets/images/im1.1.png\" alt=\"\">\n");
       out.write("                  <h4>Ingresa en <em> WEB HOUSE</em></h4>\n");
       out.write("                </div>\n");
       out.write("              </div>\n");

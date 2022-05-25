@@ -29,9 +29,9 @@ https://templatemo.com/tm-573-eduwell
 
 -->
   </head>
-
+  
   <body class="color_loguin">
- 
+      
   <section class="contact-us" id="contact-section">
     <div class="container">
         <div class="col-lg-4">
@@ -39,7 +39,7 @@ https://templatemo.com/tm-573-eduwell
             <div class="row">
               <div class="col-lg-12">
                 <div class="section-heading">
-                    <img class="cuadross" src="assets/images/im1.png" alt="">
+                    <img class="cuadross" src="assets/images/im1.1.png" alt="">
                   <h4>Ingresa en <em> WEB HOUSE</em></h4>
                 </div>
               </div>
@@ -60,8 +60,8 @@ https://templatemo.com/tm-573-eduwell
               </div>
             </div>
           </form>
-            
-           
+        </div>   
+          
             
   <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
